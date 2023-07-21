@@ -20,4 +20,4 @@ const shortUrlSchema = new mongoose.Schema({
 })
 // THIS IS A CHANGE IN THIS REPO
 
-module.exports = mongoose.model('ShortUrl', shortUrlSchema)
+module.exports = mongoose.model('ShortUrl', shortUrlSchema);
